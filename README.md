@@ -15,3 +15,5 @@ Steps :
 - Generating a table and some graphs
 - Generating an interactive map
 - Compiling all our results in an HTML file with a nice presentation
+
+[Check our project](chicago-crimes-weber-pizzetta.html)
