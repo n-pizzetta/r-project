@@ -1,0 +1,26 @@
+.cover-page {
+  background-color: #fff;
+  text-align: center;
+  padding-top: cm; /* Réduisez cette valeur pour faire remonter le logo */
+  padding-bottom: 6cm; /* Ajustez selon besoin */
+  color: black;
+}
+
+.cover-page img {
+  width: 7cm; /* Taille du logo */
+  margin-bottom: 2cm; /* Espace entre le logo et le titre h1 */
+}
+
+.cover-page h1 {
+  font-weight: bold;
+  font-size: 3em; /* Assurez-vous que 'em' est spécifié pour la taille de la police */
+  margin-top: 0cm;
+  margin-bottom: 10cm; /* Ajustez cette marge pour contrôler l'espace après le titre h1 */
+}
+
+.cover-page h2 {
+  font-weight: none;
+  font-size: 1.5em;
+  margin-left: 1.1cm;
+  margin-bottom: 0cm; /* Espace après le titre h2 */
+}
